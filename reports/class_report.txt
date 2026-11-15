@@ -1,0 +1,14 @@
+CLASS REPORT - 2026-11-15 19:25
+
+ID        Name                     Total  Average  Grade
+--------------------------------------------------------
+S006      Daniel Horsefall         420.0    84.00      A
+S001      Emmanuella Adesanya      403.0    80.60      A
+S003      Christabel Oyedepo       394.0    78.80      A
+S002      Bola Ahmed Tinubu        320.0    64.00      B
+S004      Maison Margiela          241.0    48.20      D
+S005      Folusola Kuti            178.0    35.60      F
+
+Highest total: 420.0
+Lowest total : 178.0
+Class average: 65.20
